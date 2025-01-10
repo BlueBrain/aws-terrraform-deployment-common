@@ -2,5 +2,7 @@
 .terraform.lock.hcl
 terraform-init.sh
 terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.d/
 .terraform
 
